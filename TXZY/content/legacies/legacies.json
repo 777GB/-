@@ -1,0 +1,27 @@
+{
+    "legacies": [
+        {
+            "id": "absoluteone",
+            "label": "饕飨之宴",
+            "description": "情欲，食欲，强烈的刺激将我环抱而不入体，我渴求着这些。",
+            "startdescription": "我记忆里的伦敦可不是这副摸样，至少没有所谓的防剿局。",
+            "effects": {
+                "introjob": 1,
+				"maishen": 1,
+                "brokenscene": 1,
+                "jinghua": 1,
+                "locationcabaret": 1
+
+            },
+            "image": "absoluteone",
+            "fromending": "_",
+            "availableWithoutEndingMatch": true,
+            "startingverbid":{
+                "work": 1,
+                "zigong": 1,
+
+            },
+            "newstart": true
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "elements": [
+	    {
+            "id": "jinghua",
+            "label": "精华",
+            "icon": "jinghua",
+            "aspects": {
+				"grail": 1,
+				"ingredient": 1,
+                "job": 1,
+            },
+            "description": "从那些雄性体内取得，生命必需的种子。他人取得或许无用，但我并非常人。"
+        },
+
+		{
+            "id": "maishen",
+            "label": "卖身",
+            "icon": "jinghua",
+            "aspects": {
+				"grail": 1,
+				"ingredient": 1,
+                "job": 1,
+            },
+            "description": "好色之徒总是欲求不满，我可以利用这一点。"
+        },
+
+        {
+            "id": "gebulin",
+            "label": "哥布林",
+            "icon": "jinghua",
+            "aspects": {
+				"grail": 1,
+				"ingredient": 1,
+            },
+            "description": "矮小卑劣的造物，性欲与食欲将其注满。"
+        },
+
+        {
+            "id": "gebulinyouzai",
+            "label": "哥布林幼崽",
+            "icon": "jinghua",
+            "aspects": {
+				"grail": 1,
+				"ingredient": 1,
+            },
+            "description": "幼小的卑劣造物，他们的成长需要时间。"
+        },
+
+        {
+            "id": "rengeguodong",
+            "label": "人格果冻",
+            "icon": "jinghua",
+            "aspects": {
+				"grail": 1,
+				"ingredient": 1,
+            },
+            "description": "灵魂的具现化，空有意识而无肉体。"
+        },
+        
+        {
+            "id": "routi",
+            "label": "肉体",
+            "icon": "jinghua",
+            "aspects": {
+                "meiwei": 1,
+				"grail": 1,
+				"ingredient": 1,
+            },
+            "description": "没有灵魂的空壳，虽然活着但与死物无异。"
+        },
+
+
+
+	]
+}

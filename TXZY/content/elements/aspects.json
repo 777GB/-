@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"id": "meiwei",
+			"label": "美味",
+			"isAspect": true,
+			"description": "“鲜美多汁。”",
+			"icon":"broken"
+		},
+	]
+}
+	

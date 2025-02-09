@@ -1,0 +1,79 @@
+{
+    "verbs": [
+	    {
+            "id": "talk",
+            "label": "Talk",
+            "description": "Interrogate, intimidate, beguile, instruct, recruit.",
+            "slot": {
+                "id": "talk",
+                "label": "Talk",
+                "description": "An ally, an enemy, or something in between.",
+                "required": {
+                    "mortal": 1,
+                    "summoned": 1,
+                    "patron": 1,
+                    "society": 1,
+                    "hq": 1,
+                    "lore": 1,
+					"protagonist": 1,
+                },
+                "forbidden": {
+                    "wary": 1
+                },
+            },
+        },
+        {
+            "id": "dream",
+            "label": "Dream",
+            "description": "Rest; reconsider your priorities; or risk yourself in exploration of the kingdoms of sleep.",
+            "slot": {
+                "id": "dream",
+                "label": "Dream",
+                "description": "A direction for my dreams; or a trouble to recover from.",
+                "required": {
+					"protagonist": 1,
+                    "ability": 1,
+                    "desire": 1,
+                    "illhealth": 1,
+                    "way": 1,
+                    "funds": 1
+                }
+            }
+        },
+		{
+            "id": "study",
+            "label": "Study",
+            "description": "Unlock books and other treasures.",
+            "slot": {
+                "id": "study",
+                "label": "Study",
+                "description": "The invisible arts could occupy ten lifetimes of study.",
+                "required": {
+					"protagonist": 1,
+					"ritual": 1,
+                    "text": 1,
+                    "lore": 1,
+                    "ability": 1,
+                    "influence": 1,
+                    "tutor": 1,
+                    "language": 1,
+                    "legacyplotitem": 1
+                }
+            }
+        },
+        {
+            "id": "zigong",
+            "description": "生命的摇篮",
+            "label":"子宫",
+            "slot": {
+              "id": "jinghua",
+              "label": "精华",
+              "description": "满足我，满足我，满足我！",
+              "required": {
+                "grail": 1,
+                "qianxi": 1
+              }
+          }
+        },
+	],
+}

@@ -1,0 +1,30 @@
+{
+    "recipes":[
+        {
+            "id": "maishengongzuo",
+            "label": "好色之徒总是欲求不满，一点点诱惑他们就会上钩。",
+            "actionId": "work",
+            "requirements": {
+                "job": 1,
+            },
+            "effects": {
+                "funds": 1,
+                "jinghua": 1,
+            },
+            "alt": [
+                {
+                    "id": "introdream", 
+                    "chance": 100,
+                    "additional": true
+                }
+            ],
+            "startdescription": "男人们来来往往，总有人屈服于诱惑。",
+            "description": "金钱，精华，一举两得。",
+            "warmup": 10,
+            "craftable": true,
+            "burnimage": "office"
+        }
+
+
+    ]
+}
