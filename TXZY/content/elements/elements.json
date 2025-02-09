@@ -15,7 +15,7 @@
 		{
             "id": "maishen",
             "label": "卖身",
-            "icon": "jinghua",
+            "icon": "maishen",
             "aspects": {
 				"grail": 1,
 				"ingredient": 1,
@@ -27,7 +27,7 @@
         {
             "id": "gebulin",
             "label": "哥布林",
-            "icon": "jinghua",
+            "icon": "gebulin",
             "aspects": {
 				"grail": 1,
 				"ingredient": 1,
@@ -38,7 +38,7 @@
         {
             "id": "gebulinyouzai",
             "label": "哥布林幼崽",
-            "icon": "jinghua",
+            "icon": "gebulinyouzai",
             "aspects": {
 				"grail": 1,
 				"ingredient": 1,
@@ -49,7 +49,7 @@
         {
             "id": "rengeguodong",
             "label": "人格果冻",
-            "icon": "jinghua",
+            "icon": "rengeguodong",
             "aspects": {
 				"grail": 1,
 				"ingredient": 1,
@@ -60,7 +60,7 @@
         {
             "id": "routi",
             "label": "肉体",
-            "icon": "jinghua",
+            "icon": "routi",
             "aspects": {
                 "meiwei": 1,
 				"grail": 1,
